@@ -1,4 +1,4 @@
-- Getting started
+<!-- - Getting started
 
   - [Quick start](quickstart.md)
   - [Writing more pages](more-pages.md)
@@ -25,7 +25,7 @@
   - [Embed Files](embed-files.md)
 
 - [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- [Changelog](changelog.md) -->
 
 - Guidance to HRZero Handbook
 
