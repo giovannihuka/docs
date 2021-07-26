@@ -27,7 +27,8 @@
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md) -->
 
-- Guidance to HRZero Handbook
+- HRZero Handbook
 
-  - [Prerequsites Tools](vs-code-editor.md)
+  - [Prerequsites Tools](vscode\prerequisites.md)
+  - [Preparation VS Code](vscode\preparation.md)
   - [Connect to SCM Github](scm-github-connect.md)
